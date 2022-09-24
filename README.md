@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pricila-Santos
+- 👋 Hi, I’m Pricila Santos
 - 👀 I’m interested in front-end
 - 🌱 I’m currently learning Html5 ,Css3 e Javascript.
 
